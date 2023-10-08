@@ -10,6 +10,7 @@ The Note App is a simple web application built with React that allows users to c
 
 ## Demo Video
 [![Demo Video](https://img.youtube.com/vi/m0EhA3usbT8/0.jpg)](https://youtu.be/m0EhA3usbT8)
+
 [Watch the demo video](https://youtu.be/m0EhA3usbT8)
 
 ## Getting Started
